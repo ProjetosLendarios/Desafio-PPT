@@ -1,4 +1,4 @@
-# <img src="./Docs/icon.ico" alt="Ícone do Projeto" width="100"/> <br>Desafio PPT 
+# <img src="./Docs/Icon.png" alt="Ícone do Projeto" width="100"/> <br>Desafio PPT 
 
 <img src="./Docs/BannerGithub.png" alt="Banner do Projeto" width="800"/>
 
