@@ -1,4 +1,4 @@
-# <img src="./Docs/icon.ico" alt="Ícone do Projeto" width="100"/> <br>Desafio PPT 
+# <img src="./Docs/Icon.png" alt="Ícone do Projeto" width="100"/> <br>Desafio PPT 
 
 <img src="./Docs/BannerGithub.png" alt="Banner do Projeto" width="800"/>
 
@@ -44,6 +44,7 @@ Visuais -> [Ver Agora](./Docs/Pages/Visual.md)
    ```bash
    git clone https://github.com/ProjetosLendarios/Desafio-PPT.git
    cd desafio-ppt
+   ```
 
 ## Autor
 <img src="https://avatars.githubusercontent.com/u/50460047?v=4" alt="Gonçalo Garrido" width="75"/><br>
